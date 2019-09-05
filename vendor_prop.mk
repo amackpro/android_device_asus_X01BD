@@ -197,6 +197,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.qti.telephony.vt_cam_interface=1 \
     persist.radio.VT_CAM_INTERFACE=2
 
+# Rescue party
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.sys.disable_rescue=true
+
 # RmNet Data
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.data.df.dev_name=rmnet_usb0 \
