@@ -371,8 +371,8 @@ PRODUCT_PACKAGES += \
     ims-ext-common \
     telephony-ext
 
-# PRODUCT_BOOT_JARS += \
-#    telephony-ext
+PRODUCT_BOOT_JARS += \
+    telephony-ext
 
 # TextClassifier smart selection model files
 PRODUCT_PACKAGES += \
@@ -412,8 +412,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libnl
 
-# PRODUCT_BOOT_JARS += \
-#    WfdCommon
+PRODUCT_BOOT_JARS += \
+    WfdCommon
 
 # WiFi
 PRODUCT_PACKAGES += \
