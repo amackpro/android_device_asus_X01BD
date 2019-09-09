@@ -177,21 +177,6 @@ vendor/lib64/vendor.qti.data.factory@1.1.so|86d111f7b1853dfda37631ab71bd1b8e9b38
 vendor/lib64/vendor.qti.latency@2.0.so|5cba21a7326fdf0e827f69fefb4407cf8a887327
 
 # DPM - from LA.UM.7.2.r1-06900-sdm660.0
-bin/dpmd|800f2319955ded8213da63085bca7c9a6947538e
-etc/dpm/dpm.conf|fec89edb6cff81424a6c3a730fed92efa3613f72
-etc/init/dpmd.rc|52ca6ad920a1804e4ff608113cece063730f5e0c
-etc/permissions/com.qti.dpmframework.xml|36b94c9338069e434b83359a92cdc7ff62b822df
-etc/permissions/dpmapi.xml|ded29f9befaef20a7ccee0c75427fda1d1d04890
-framework/com.qti.dpmframework.jar|2a6ff555ebff148a508fc7ea2fbeaee4b9a2dff6
-framework/dpmapi.jar|89ddc5bf0c4c88a3f341169edc4d89f9e834337b
-framework/tcmclient.jar|91b415288494fa208b5f5ec9fafa33c47e569c96
--priv-app/dpmserviceapp/dpmserviceapp.apk|8f153185721c3383f8f5858aee3b0bb73220526c
-lib64/com.qualcomm.qti.dpm.api@1.0.so|cb0f37ef7e826bcd8b34be047b8dc045a6853e73
-lib64/libdiag_system.so|7d60813aa269202d2c1f5c2eb15350a74da776e9
-lib64/libdpmctmgr.so|611642251e77a1ce8a4bc59beaf4213bfc0cef8a
-lib64/libdpmfdmgr.so|84a6916dff3b3608e9ac83106df651ba995ca704
-lib64/libdpmframework.so|060a7200afccf7411969af4943908c92d752c032
-lib64/libdpmtcm.so|db125f21d6f9da6afcb8956ba2eabae58cbeb30e
 vendor/bin/dpmQmiMgr|0808c5a2d7b51611b3f976beb9552aabda796a41
 vendor/lib64/libdpmqmihal.so|5d4647ac2ad8d386a44f5e9c5486287b21a7f758
 vendor/lib64/com.qualcomm.qti.dpm.api@1.0.so|7738cc1fdf4ce250285ed8c4130735d6cd0c598e
@@ -651,6 +636,7 @@ lib64/lib-imsvideocodec.so|85d3941c5a6eb7a382475af67cf943ea88d48733
 lib64/lib-imsvt.so|8dafceb20cb519944b669278e61b532eed0d9060
 lib64/lib-imsvtextutils.so|4f5e33e1fce70dafdc9ed0de95440ccd262342d7
 lib64/lib-imsvtutils.so|3c1913878aac6c5d5a9b279acecf5997d3737d5e
+lib64/libdiag_system.so|7d60813aa269202d2c1f5c2eb15350a74da776e9
 lib64/libimscamera_jni.so|133fec4e7be337eb255eb226c4ff96ae53b94be7
 lib64/libimsmedia_jni.so|17a2cb31fb5960769b4c2c0636fffe721c4f2a74
 lib64/librcc.so|96c467ec6b7ea03b77cda3b88fb36a56c196aaa8
