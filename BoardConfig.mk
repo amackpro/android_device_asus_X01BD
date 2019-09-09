@@ -229,8 +229,9 @@ VENDOR_SECURITY_PATCH := 2019-05-01
 
 # SELinux
 WITHOUT_LINEAGE_SEPOLICY := true
-# include device/qcom/sepolicy/sepolicy.mk
+include device/qcom/sepolicy/sepolicy.mk
 # BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
+SELINUX_IGNORE_NEVERALLOWS := true
 
 # Security patch level
 VENDOR_SECURITY_PATCH := 2019-05-01
