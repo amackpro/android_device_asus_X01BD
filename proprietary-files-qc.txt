@@ -618,7 +618,7 @@ vendor/radio/qcril_database/qcril.db|0adf1d8066dae63b25a78424d14448e9b7675026
 
 # Radio - IMS - from Mi A2 jasmine-user 9 PKQ1.180904.001 V10.0.9.0.PDIMIXM release-keys
 -app/imssettings/imssettings.apk:vendor/app/imssettings/imssettings.apk|20d9b2c3f5939d4bfa7c03b5383d0cf03dbbc39e
-# -priv-app/ims/ims.apk|0c7e831a8e2b4e7c5cc553b51c92b742e63ad1a3
+-priv-app/ims/ims.apk|0c7e831a8e2b4e7c5cc553b51c92b742e63ad1a3
 etc/permissions/com.qualcomm.qti.imscmservice.xml|db25ef24f1937366d58a53b4f4b8923bc9e98d2d
 etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml|8d25bd7b79baf266950eb484c1a28817f891aec2
 etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml|998076243537f61f3683a3c083f7b27510617368
